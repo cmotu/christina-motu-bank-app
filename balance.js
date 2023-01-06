@@ -1,5 +1,7 @@
-function Balance(){
+function Balance() {
   return (
-    <h1>Balance</h1>
-  )
+    <div id="root2">
+      <h1>Balance</h1>
+    </div>
+  );
 }

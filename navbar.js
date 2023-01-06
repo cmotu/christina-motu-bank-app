@@ -28,16 +28,7 @@ function NavBar() {
                 Login
               </a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#/deposit/">
-                Deposit
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#/withdraw/">
-                Withdraw
-              </a>
-            </li>
+
             <li className="nav-item">
               <a className="nav-link" href="#/balance/">
                 Balance
